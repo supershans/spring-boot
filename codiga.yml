@@ -1,6 +1,0 @@
-rulesets:
-  - java-safety
-  - java-design
-  - java-performance
-  - java-security
-  - java-best-practices
